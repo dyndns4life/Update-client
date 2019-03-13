@@ -14,7 +14,7 @@ Installation:
 
 Configuration:
 In the GUI http://dyndns.life/admin/ create the hostname
-1) adopt the configuration file /usr/local/etc/dyndns.conf by replacing : TOKEN:xxxxxx by TOKEN:<token of your hostname>
+1) adopt the configuration file /usr/local/etc/dyndns.conf by replacing : TOKEN:xxxxxx by TOKEN:token_of_your_hostname
 
 Run IP update:
 You can update the hostname's IP address by running the following comand. You can add this command in a crontab.
