@@ -33,7 +33,7 @@
 #define DYN_SERVER_INSTALL		"dyndns.life/api/install"
 #define DYN_SERVER_UPDATE		"dyndns.life/api/update"
 #define DYN_SERVER_UPDATE_CURL		"dyndns.life/api/update_curl"
-#define DYN_CLIENT_IP		"dyndns.life/api/ip"
+#define DYN_CLIENT_IP		"https://dyndns.life/api/ip"
 #define DYN_CONF_FILE		"/usr/local/etc/dyndns.conf"
 
 struct MemoryStruct {
